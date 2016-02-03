@@ -1,0 +1,27 @@
+html{
+    font-family: Verdana, Geneva, sans-serif;
+}
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+h2{
+    background-color: red;
+    width: 400px;
+
+}
+#wrapper {
+    position: absolute;
+    width: 100%;
+    top: 30%;
+    margin-top: -50px;
+}
+article table td{
+background-color: #FCF3D0;
+
+}
+#form {
+    margin: auto;
+    width: 450px;
+    height: auto;
+}

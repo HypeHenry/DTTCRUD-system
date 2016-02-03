@@ -1,0 +1,121 @@
+body{
+    background-color: #1290A1;
+    font-family: Helvetica Neue, Arial, sans-serif;
+}
+hr{
+    display: block; height: 1px; border: 0; border-top: 1px solid #1290A1; margin: 1em 0; padding: 0;
+}
+#content{
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+
+    background-color: white;
+    width: 900px;
+    height: auto;
+    margin-left: 250px;
+    padding: 20px;
+}
+
+h2{
+    font-size: 18px;
+    color: gold;
+}
+h1{
+    color: lightsalmon;
+    font-size: 30px;
+}
+input[type=text], [type=date], textarea{
+    background-color: #F2FFEE;
+}
+form{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    /*padding: 40px 1px 20px 1px;*/
+    background: #FCF3D0;
+    width: 900px;
+    box-shadow: 2px 2px 10px #888;
+}
+table {
+    text-align: left;
+    font-family: verdana, arial, sans-serif;
+    font-size: 11px;
+    color: #333333;
+    border-width: 1px;
+    border-color: #3A3A3A;
+    border-collapse: collapse;
+}
+#adminTable table {
+    text-align: left;
+    width: 700px;
+    font-family: verdana, arial, sans-serif;
+    font-size: 11px;
+    color: #333333;
+    border-width: 1px;
+    border-color: #3A3A3A;
+    border-collapse: collapse;
+
+}
+table th {
+    border-width: 1px;
+    border-style: solid;
+    border-color: lightsalmon;
+    background-color: lightsalmon;
+    color: #ffffff;
+}
+#tableArticle table th {
+    border-width: 39px;
+    border-style: solid;
+    border-color: lightsalmon;
+    background-color: lightsalmon;
+    color: #FCF3D0;
+}
+#adminTable table tr:nth-child(even) td{
+    background-color: #FCF3D0;
+}
+#tableArticle table td {
+    background-color: #FCF3D0;
+}
+table td {
+    background-color: #ffffff;
+
+}
+#tableArticle{
+    color: #FCF3D0;
+    /*padding: auto;*/
+    text-align: left;
+    width: 700px;
+    font-family: verdana, arial, sans-serif;
+    font-size: 11px;
+    /*color: #333333;*/
+    border-width: 1px;
+    border-color: #3A3A3A;
+    border-collapse: collapse;
+
+}
+.button {
+
+    box-shadow: rgba(1, 1, 1, 0.2) 0 1px 0 0;
+    color: #fff;
+    background-color: #D57C54;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: none;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    height: 36px;
+    padding: 4px 16px;
+    text-shadow: #FE6 0 1px 0
+}
+#art_date{
+    float: left;
+    font-size: 14px;
+    color: #D57C54;
+}
+#art_tile td{
+    float: left;
+    margin-left: 10px;
+}
