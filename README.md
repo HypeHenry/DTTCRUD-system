@@ -1,12 +1,10 @@
 # DTTCRUD-system
-Voor de de bedrijf DTT media moet ik een artikel pagina maken:
-
-
 Features:
 Front end:
 -	The Homepage shows the five most recent articles
 -	An article should be clickable, when clicked a page with only the selected article is presented.
 -	The “archief” page is a page where all articles are shown.
+
 Back-end:
 -	Loginpage for admin users
 -	Admin must have a overview of all articles
