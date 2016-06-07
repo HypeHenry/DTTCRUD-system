@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/HypeHenry/DTTCRUD-system.png?label=ready&title=Ready)](https://waffle.io/HypeHenry/DTTCRUD-system)
+[![Stories in Ready](https://badge.waffle.io/HypeHenry/DTTCRUD-system.png?label=ready&title=Ready)](https://waffle.io/HypeHenry/DTTCRUD-system)[![SensioLabsInsight](https://insight.sensiolabs.com/projects/cc5695b0-6200-4b14-9ad0-d0c304d65828/mini.png)](https://insight.sensiolabs.com/projects/cc5695b0-6200-4b14-9ad0-d0c304d65828)
 # DTTCRUD-system
 Features:
 Front end:
